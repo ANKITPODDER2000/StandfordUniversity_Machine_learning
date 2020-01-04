@@ -1,0 +1,4 @@
+upload : git remote add origin https://github.com/ANKITPODDER2000/StandfordUniversity_Machine_learning.git
+
+
+--->git push -u origin master
